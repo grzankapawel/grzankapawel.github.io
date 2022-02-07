@@ -1,0 +1,50 @@
+
+body{
+    font-family: 'Luxurious Roman';
+    font-size: 20px;
+    margin-left: 75px;
+    margin-top: 75px;
+    /* background-image: url(https://picsum.photos/id/237/200/300); */
+}
+
+/* td {
+
+    text-align: right;
+} */
+h3 {
+    color: blueviolet;
+}
+h1{
+    color: darkolivegreen;
+}
+/* p{
+    color: rgb(0, 68, 255);
+} */
+/* .first-class{
+    color: darkred;
+}
+.third-class{
+    color: indigo !important;
+}
+#first-id{
+    color: khaki;
+} */
+footer strong{
+    text-decoration: underline wavy #ff66ce
+}
+table{
+    text-align: center;
+    line-height: 200%;
+    width: 275px;
+    height: 200px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+mark{
+    border-radius: 10px;
+}
+div#main-content{
+    background-color: #cacaca;
+    padding: 20px;
+    border-style: solid;
+}
